@@ -8,6 +8,7 @@
 6. Understanding Clouds from Satellite Images - identify cloud formation type: https://www.kaggle.com/c/understanding_cloud_organization/data 
 7. Airbus Ship Detection Challenge: https://www.kaggle.com/c/airbus-ship-detection
 8. Dstl Satellite Imagery Feature Detection - Instance segmentation: https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data
+9. Rareplanes - airplane detection dataset real and synthetically generated satellite imagery  https://www.cosmiqworks.org/rareplanes-public-user-guide/
 
 
 ## Blog Articles
