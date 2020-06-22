@@ -13,7 +13,7 @@
 
 ## Blog Articles
 ## Papers
-1. Ke Li, Gang Wan, Gong Cheng, Liqiu Meng, Junwei Han, Object detection in optical remote sensing images: A survey and a new benchmark,
+1. Ke Li, Gang Wan, Gong Cheng, Liqiu Meng, Junwei Han, **Object detection in optical remote sensing images: A survey and a new benchmark**,
 ISPRS Journal of Photogrammetry and Remote Sensing, Volume 159, 2020
 
 ## Video Links
