@@ -12,6 +12,7 @@
 
 
 ## Blog Articles
+1. Adam Van Etten, **Broad Area Satellite Imagery Semantic Segmentation (BASISS)**,Extracting Road Masks from Massive SpaceNet Images, Medium, Jan 25, 2018. Link: https://medium.com/the-downlinq/broad-area-satellite-imagery-semantic-segmentation-basiss-4a7ea2c8466f
 ## Papers
 1. Ke Li, Gang Wan, Gong Cheng, Liqiu Meng, Junwei Han, **Object detection in optical remote sensing images: A survey and a new benchmark**,
 ISPRS Journal of Photogrammetry and Remote Sensing, Volume 159, 2020
