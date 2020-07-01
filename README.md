@@ -15,6 +15,7 @@
 1. Adam Van Etten, **Broad Area Satellite Imagery Semantic Segmentation (BASISS)**,Extracting Road Masks from Massive SpaceNet Images, Medium Blogs, Jan 25, 2018. Link: https://medium.com/the-downlinq/broad-area-satellite-imagery-semantic-segmentation-basiss-4a7ea2c8466f
 2. Bert Carremans, **Forecasting Air Pollution with Recurrent Neural Networks**, Medium Blogs, Nov 19, 2018. Link: https://towardsdatascience.com/forecasting-air-pollution-with-recurrent-neural-networks-ffb095763a5c
 3. Utkarsh Ankit, **Semantic Segmentation of Aerial images Using Deep Learning**, Towards Data Science, Feb 4,2019, Link: https://towardsdatascience.com/semantic-segmentation-of-aerial-images-using-deep-learning-90fdf4ad780
+4. Charlotte Weil, **Can we locate dams from space?**, Medium Blogs, Nov 1, 2018. Link: https://medium.com/@charlotteweil/can-we-locate-dams-from-space-2a796ac8c04b
 
 ## Papers
 1. Ke Li, Gang Wan, Gong Cheng, Liqiu Meng, Junwei Han, **Object detection in optical remote sensing images: A survey and a new benchmark**,
