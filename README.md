@@ -9,7 +9,7 @@
 7. Airbus Ship Detection Challenge: https://www.kaggle.com/c/airbus-ship-detection
 8. Dstl Satellite Imagery Feature Detection - Instance segmentation: https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data
 9. Rareplanes - airplane detection dataset real and synthetically generated satellite imagery  https://www.cosmiqworks.org/rareplanes-public-user-guide/
-
+10. SAT-4 and SAT-6 airborne datasets https://csc.lsu.edu/~saikat/deepsat/
 
 ## Blog Articles
 1. Adam Van Etten, **Broad Area Satellite Imagery Semantic Segmentation (BASISS)**,Extracting Road Masks from Massive SpaceNet Images, Medium Blogs, Jan 25, 2018. Link: https://medium.com/the-downlinq/broad-area-satellite-imagery-semantic-segmentation-basiss-4a7ea2c8466f
