@@ -21,7 +21,7 @@
 1. Ke Li, Gang Wan, Gong Cheng, Liqiu Meng, Junwei Han, **Object detection in optical remote sensing images: A survey and a new benchmark**,
 ISPRS Journal of Photogrammetry and Remote Sensing, Volume 159, 2020
 2. Jiang, Huiwei, et al. **PGA-SiamNet: Pyramid Feature-Based Attention-Guided Siamese Network for Remote Sensing Orthoimagery Building Change Detection.** Remote Sensing 12.3 (2020): 484. 
-
+3. Qunli Yao, Xian Hu, Hong Lei, **Geospatial Object Detection in Remote Sensing Images based on Multi-Scale Convolutional Neural Networks**, IGARRS 2019
 
 ## Video Links
 1. Basics(When deep learning meets satellite imagery). Link: https://youtu.be/CQlLa_UWncg
