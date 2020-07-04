@@ -29,4 +29,5 @@ ISPRS Journal of Photogrammetry and Remote Sensing, Volume 159, 2020
 2. Combining satellite imagery and machine learning to predict poverty. Link: https://www.youtube.com/watch?v=jZNKihHJZqA
 3. GroundWork - free image labeling tool for satellite imagery. Link: https://youtu.be/L_Mh3Kn8XYQ
 4. A Scalable Satellite-based Crop Yield Mapper. Link: https://youtu.be/5HeJDKF8XCw
-5. PyCon.DE 2018: Satellite Image Segmentation Photovoltaic Potential Estimation - Johannes Oos. Link: https://youtu.be/SoJuk08u0DI
+5. PyCon.DE 2018: Satellite Image Segmentation Photovoltaic Potential Estimation - Johannes Oos. 
+   Link: https://youtu.be/SoJuk08u0DI
